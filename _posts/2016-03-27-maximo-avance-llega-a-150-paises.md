@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Las transmisiones de diversos eventos de Máximo Avance Network \_a través de nuestra plataforma han llegado a 137 países atravesando todos los continentes del mundo sumando cerca de 10 millones de minutos vistos en la plataforma por internet.\_"
-datePublished: '2016-03-27T21:26:43.264Z'
-dateModified: '2016-03-27T21:26:16.740Z'
+datePublished: '2016-03-27T21:30:34.153Z'
+dateModified: '2016-03-27T21:30:04.249Z'
 title: Máximo Avance llega a 150 países
 author: []
+sourcePath: _posts/2016-03-27-maximo-avance-llega-a-150-paises.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-maximo-avance-llega-a-150-paises.md
-published: true
 url: maximo-avance-llega-a-150-paises/index.html
 _type: Article
 
