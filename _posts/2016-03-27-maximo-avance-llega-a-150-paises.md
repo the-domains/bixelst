@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Las transmisiones de diversos eventos de Máximo Avance Network \_a través de nuestra plataforma han llegado a 137 países atravesando todos los continentes del mundo sumando cerca de 10 millones de minutos vistos en la plataforma por internet.\_"
-datePublished: '2016-03-27T21:37:09.381Z'
-dateModified: '2016-03-27T21:37:03.790Z'
+datePublished: '2016-03-27T21:44:57.032Z'
+dateModified: '2016-03-27T21:44:35.678Z'
 title: Máximo Avance llega a 150 países
 author: []
 sourcePath: _posts/2016-03-27-maximo-avance-llega-a-150-paises.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0c7716a-c561-4f1b-a9d7-dc96b2eafc4a.jpg)
 
-Las transmisiones de diversos eventos de Máximo Avance Network  a través de nuestra plataforma han llegado a 137 países atravesando todos los continentes del mundo sumando cerca de 10 millones de minutos vistos en la plataforma por internet. 
+Las transmisiones de diversos eventos de Máximo Avance Network  a través de nuestra plataforma han llegado a 137 países atravesando todos los continentes del mundo sumando cerca de 10 millones de minutos vistos en la plataforma por internet. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d2cdc6-932b-4215-8b12-dce54f756e2d.png)
 
 En Norteamérica se concentra la mayor cantidad de visitas al streaming que generamos para el sitio especializado de fútbol americano MáximoAvance.com con México, Estados Unidos y Canadá como los países con más views que en total son cercanos al millón de visitas a partir de marzo de 2015\.
 
